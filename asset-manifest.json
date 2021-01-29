@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-task/static/css/main.c2f4acca.chunk.css",
+    "main.js": "/test-task/static/js/main.c8e68cf8.chunk.js",
+    "main.js.map": "/test-task/static/js/main.c8e68cf8.chunk.js.map",
+    "runtime-main.js": "/test-task/static/js/runtime-main.589baf5b.js",
+    "runtime-main.js.map": "/test-task/static/js/runtime-main.589baf5b.js.map",
+    "static/js/2.dcc1dfea.chunk.js": "/test-task/static/js/2.dcc1dfea.chunk.js",
+    "static/js/2.dcc1dfea.chunk.js.map": "/test-task/static/js/2.dcc1dfea.chunk.js.map",
+    "static/js/3.4c7c212e.chunk.js": "/test-task/static/js/3.4c7c212e.chunk.js",
+    "static/js/3.4c7c212e.chunk.js.map": "/test-task/static/js/3.4c7c212e.chunk.js.map",
+    "index.html": "/test-task/index.html",
+    "static/css/main.c2f4acca.chunk.css.map": "/test-task/static/css/main.c2f4acca.chunk.css.map",
+    "static/js/2.dcc1dfea.chunk.js.LICENSE.txt": "/test-task/static/js/2.dcc1dfea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-task/static/media/SFUIDisplay-Regular.d5b1bd49.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.589baf5b.js",
+    "static/js/2.dcc1dfea.chunk.js",
+    "static/css/main.c2f4acca.chunk.css",
+    "static/js/main.c8e68cf8.chunk.js"
+  ]
+}
